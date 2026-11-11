@@ -1,50 +1,78 @@
-
-# Active Directory Home Lab – Windows Server 2022
+# Active Directory Home Lab | IT Support Portfolio
 
 ## Project Overview
 
-This project documents my hands-on Active Directory home lab built using VMware and Windows Server 2022.
+This repository documents my VMware-based IT Support home lab and technical learning activities focused on Windows Server 2022, Active Directory, Windows client administration, networking, and service desk troubleshooting.
 
-The objective is to develop practical skills in Windows Server administration, user management, identity management, Group Policy, and IT troubleshooting.
+**Objective:** Develop practical skills relevant to IT Support, Desktop Support, and Service Desk Analyst roles.
+
+## Technologies and Tools
+
+- Windows Server 2022
+- Windows 10 / Windows 11
+- Active Directory Domain Services (AD DS)
+- Group Policy
+- DNS and DHCP
+- VMware
+- Microsoft 365 and Outlook support concepts
+- ServiceNow incident management concepts
+- Microsoft Entra ID concepts
 
 ## Lab Environment
 
-| Component | Details |
-|---|---|
-| Virtualization | VMware |
-| Server OS | Windows Server 2022 |
-| Client OS | Windows 10/11 |
-| Directory Service | Active Directory Domain Services |
-| Management | Active Directory Users and Computers |
-| Network | Lab network |
+My home lab uses VMware to practice Windows Server and Active Directory administration.
 
-## Objectives
+**Lab status:** Active Directory configured. Individual exercises and outcomes should be verified against the documentation.
 
-- Install and configure Windows Server 2022
-- Configure Active Directory Domain Services
-- Promote server to Domain Controller
-- Create and manage user accounts
-- Configure Organizational Units
-- Perform password resets and account unlocks
-- Configure Group Policy
-- Troubleshoot common Active Directory issues
+## Technical Documentation
 
-## Project Documentation
+### Active Directory Administration
+- [User Management](documentation/user-management.md)
+- [Password Reset](documentation/password-reset.md)
+- [Account Unlock](documentation/account-unlock.md)
+- [Enable and Disable Users](documentation/enable-disable-user.md)
+- [Group Management](documentation/group-management.md)
+- [Group Policy Management](documentation/group-policy-management.md)
 
-Documentation and screenshots will be added as I complete each practical exercise.
+### Windows and Networking
+- [Windows Client Domain Join](documentation/windows-client-domain-join.md)
+- [DNS and DHCP Troubleshooting](documentation/dns-dhcp-troubleshooting.md)
+- [Windows Troubleshooting](documentation/windows-troubleshooting.md)
 
-## Skills Demonstrated
+### IT Support and Service Desk
+- [Microsoft 365 and Outlook Support](documentation/microsoft-365-outlook-support.md)
+- [ServiceNow Incident Management](documentation/servicenow-incident-management.md)
+- [IT Support Troubleshooting Scenarios](documentation/it-support-troubleshooting-scenarios.md)
 
-- Windows Server Administration
-- Active Directory
-- User and Group Management
-- Group Policy
-- Windows Troubleshooting
-- VMware Virtualization
-- IT Support Practices
+### Virtualization
+- [VMware Home Lab](documentation/vmware-home-lab.md)
 
-## Author
+## Screenshots and Evidence
 
-Ajay Kammari
+Lab screenshots will be added to the [screenshots](screenshots/) folder as exercises are completed and verified.
 
-GitHub: https://github.com/Ajayk20-01
+## Skills Demonstrated and Studied
+
+- Windows user account administration
+- Active Directory management
+- Group Policy fundamentals
+- Windows troubleshooting
+- DNS and DHCP fundamentals
+- Incident documentation and troubleshooting workflows
+- Service desk processes and ticket management
+
+## Project Status
+
+**Documentation:** Created for the topics listed above.
+
+**Practical verification:** Ongoing. Documentation should not be interpreted as proof that every scenario has been tested.
+
+**Screenshots:** Pending upload.
+
+## About Me
+
+**Ajay Kammari**
+
+Aspiring IT Support / Service Desk professional building practical skills through hands-on labs and technical documentation.
+
+**GitHub:** https://github.com/Ajayk20-01
